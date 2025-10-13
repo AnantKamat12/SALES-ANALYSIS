@@ -4,7 +4,7 @@
 This project explores sales data using Excel and Power BI, with the goal of identifying trends in customer demographics, regional performance, and platform contributions. The analysis includes pivot tables, charts, and an interactive dashboard with slicers for dynamic insights.
 
 ## Data
-- **Dataset:** Raw sales data (included in `RAW_DATA')  
+- **Dataset:** Raw sales data (included in `RAW_DATA.xlsx')  
 - **Columns:** Customer Gender, Age, State, Product, Platform, Sales Amount, etc.
 
 ## Methodology
