@@ -14,6 +14,7 @@ This project explores sales data using Excel and Power BI, with the goal of iden
 
 ## Dashboard Screenshot
 ![Sales Dashboard](image.png)
+![Powebi](Screenshot.png)
 
 ## Key Insights
 - **Customer Gender:** Women account for ~65% of total sales.  
